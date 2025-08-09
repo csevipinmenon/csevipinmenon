@@ -127,3 +127,10 @@ Here are some of my personal projects and work samples:
 ---
 
 ⭐️ _If you like what I do, consider giving me a star!_
+
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/csevipinmemon/csevipinmemon/output/github-contribution-grid-snake.svg" />
+</p>
+
