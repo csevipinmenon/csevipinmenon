@@ -131,6 +131,6 @@ Here are some of my personal projects and work samples:
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/csevipinmemon/csevipinmemon/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/csevipinmenon/csevipinmenon/output/github-contribution-grid-snake.svg" />
 </p>
 
