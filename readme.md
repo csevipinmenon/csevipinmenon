@@ -48,6 +48,7 @@
 
 #### Languages
 
+![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue.svg?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python)
