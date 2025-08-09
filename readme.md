@@ -130,7 +130,7 @@ Here are some of my personal projects and work samples:
 
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/csevipinmenon/csevipinmenon/output/github-contribution-grid-snake.svg" />
-</p>
+![GitHub Snake dark](https://raw.githubusercontent.com/csevipinmenon/csevipinmenon/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/csevipinmenon/csevipinmenon/output/github-contribution-grid-snake.svg)
+
 
