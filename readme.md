@@ -3,7 +3,7 @@
 
 ---
 
-### About Me
+### 🔹 About Me
 
 - I'm currently pursuing **B.Tech in Computer Science and Engineering**
 - I'm a **Full-Stack Web Developer** (MERN) and **Machine Learning enthusiast**
@@ -13,7 +13,7 @@
 
 ---
 
-## What I Do
+### 💻 What I Do
 
 ### Full-Stack Development (MERN)
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Technologies & Tools
+### 📚 Technologies & Tools
 
 #### Languages
 
@@ -80,37 +80,37 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csevipinmemon&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csevipinmemon&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=csevipinmenon&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csevipinmenon&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### Portfolio
+### 🌐 Portfolio
 
 - **Personal Portfolio Website**  
   _A modern, responsive portfolio , showcasing my skills, projects, and resume._  
-  [View Live](https://vipin-portfolio.vercel.app)
+  [View Live](https://vipin-portfolio-mu.vercel.app/)
 
-### Featured Projects
+### 📁 MY Projects
 
 Here are some of my personal projects and work samples:
 
 - **Jepair Bazaar** – Real-time service hiring platform (Plumber, Electrician, etc.) with GPS tracking, chat & payment integration
 - **LeetPilot Chrome Extension** – Solve LeetCode smarter with AI hints, timers, and a sleek UI
 - **ML Projects** – Spam detection, image classification, regression models, and more
-- \*\*Amazon - Fully responsible frontend amazon clone
+- **Amazon** - Fully responsible frontend amazon clone
 - **YouTube Clones** – backend youtube clone applications
 
 ---
 
-### Connect with Me
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipin-kumar-04581431a/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vipinmeomon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vipinmemon8123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/csevipinmemon)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/imvipin07/)
 
