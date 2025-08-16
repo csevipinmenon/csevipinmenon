@@ -140,8 +140,8 @@ Here are some of my personal projects and work samples:
 - Always up for collaboration on open source or hackathons!
 - "Code never lies, but comments sometimes do!"
 
----
 
-⭐️ _If you like what I do, consider giving me a star!_
+
+
 
 
