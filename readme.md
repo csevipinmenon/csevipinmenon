@@ -117,6 +117,17 @@ Here are some of my personal projects and work samples:
 
 ---
 
+# 🔝 Top Contributed Repos  
+![](https://github-contributor-stats.vercel.app/api?username=csevipinmenon&limit=5&theme=radical&combine_all_yearly_contributions=true)  
+
+---
+
+# ✍ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+
 ### ⚡ Fun Facts
 
 - I believe in "Code. Debug. Learn. Repeat."
