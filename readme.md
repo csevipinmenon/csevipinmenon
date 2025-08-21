@@ -94,7 +94,7 @@
 
 - **Personal Portfolio Website**  
   _A modern, responsive portfolio , showcasing my skills, projects, and resume._  
-  [View Live](https://vipin-portfolio-mu.vercel.app/)
+  [View Live](https://vipinkumar.vercel.app/)
 
 ### 📁 MY Projects
 
