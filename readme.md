@@ -66,18 +66,23 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb)
 
-#### AI/ML Tools
+### AI / ML Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE.svg?style=flat&logo=python)
 
-#### Others
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker)
+
+
 
 ---
 
@@ -96,15 +101,22 @@
   _A modern, responsive portfolio , showcasing my skills, projects, and resume._  
   [View Live](https://vipinkumar.vercel.app/)
 
-### 📁 MY Projects
+### 📁 My Projects
 
-Here are some of my personal projects and work samples:
+Here are some of my key personal and academic projects:
 
-- **Jepair Bazaar** – Real-time service hiring platform (Plumber, Electrician, etc.) with GPS tracking, chat & payment integration
-- **LeetPilot Chrome Extension** – Solve LeetCode smarter with AI hints, timers, and a sleek UI
-- **ML Projects** – Spam detection, image classification, regression models, and more
-- **Amazon** - Fully responsible frontend amazon clone
-- **YouTube Clones** – backend youtube clone applications
+- **Jepair Bazaar** – On-demand home services platform enabling users to book verified professionals (repairs, cleaning, beauty, vehicle services) with real-time order tracking, chat, and secure payments.
+- **DoctorSaathi** – Telemedicine platform supporting online doctor consultations, appointment scheduling, and ASHA-assisted patient care for rural healthcare access.
+- **LeetPilot (Chrome Extension)** – AI-powered LeetCode assistant that detects active problems and programming languages to provide real-time code hints, explanations, and solutions.
+- **Resume Relevance Evaluator (ML)** – AI-driven resume screening system using NLP for JD–resume matching, relevance scoring, and skill-gap analysis with an interactive dashboard.
+- **Movie Recommendation System (ML + Web)** – Content-based movie recommender using cosine similarity with a Flask backend and React.js frontend.
+- **Movie Review Sentiment Analysis (Deep Learning)** – Simple RNN-based NLP model classifying IMDB reviews as positive or negative.
+- **Student Performance Prediction (ML Web App)** – End-to-end machine learning application predicting student exam scores with a Flask-based web interface.
+- **Email Spam Detection** – Machine learning model for classifying emails as spam or non-spam using text preprocessing and classification algorithms.
+- **Network Intrusion Detection** – ML-based system for detecting malicious network activity using supervised learning techniques.
+- **Amazon Frontend Clone** – Fully responsive Amazon UI clone built using modern frontend technologies.
+- **YouTube Backend Clone** – Scalable backend system implementing authentication, video management, likes, comments, and subscriptions using REST APIs.
+
 
 ---
 
