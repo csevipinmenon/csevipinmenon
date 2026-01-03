@@ -3,44 +3,39 @@
 
 ---
 
-### 🔹 About Me
+## 🔹 About Me
 
-- I'm currently pursuing **B.Tech in Computer Science and Engineering**
-- I'm a **Full-Stack Web Developer** (MERN) and **Machine Learning enthusiast**
-- I love building real-world projects, solving DSA problems, and exploring new tech
-- Currently deep diving into **System Design**, **AI tools**, and **Backend Architecture**
-- Learning advanced concepts in **Express.js**, **TensorFlow**, and **Microservices**
+I am pursuing a B.Tech in Computer Science and Engineering.  
+I work as a Full-Stack Web Developer (MERN) with hands-on experience in machine learning and data-driven systems.  
+I build real-world applications, practice data structures and algorithms, and develop practical AI use cases.  
+Currently focusing on backend architecture, system design fundamentals, and applied machine learning.  
+Actively strengthening skills in Express.js, TensorFlow, NLP, and scalable application design.
 
 ---
 
-### 💻 What I Do
+## 💻 What I Do
 
 ### Full-Stack Development (MERN)
+- Build responsive, production-ready web applications using React (Hooks, Context API, Redux) and Node.js/Express  
+- Design RESTful APIs, authentication systems (JWT, OAuth), role-based access, and real-time features with Socket.io  
+- Work with MongoDB (Mongoose) for schema design, indexing, and aggregation pipelines  
 
-- Build responsive, production-ready web apps using **React** (hooks, context, Redux) and **Node/Express**.
-- Design RESTful APIs, authentication (JWT / OAuth / Auth0), role-based routes, and real-time features with **Socket.io**.
-- Work with **MongoDB** (Mongoose) for schema design, indexing and aggregation pipelines.
-
-### Machine Learning & AI
-
-- Prototype ML models for classification, regression and NLP using **scikit-learn**, **Pandas**, **NumPy**, and **TensorFlow**.
-- Experiment with large-language models, prompt engineering and AI-assisted features in apps.
-- Integrate AI features (summarization, code hints, recommendations) into web products.
+### Machine Learning & Data Science
+- Develop ML models for classification, regression, and NLP using Pandas, NumPy, scikit-learn, and TensorFlow  
+- Build end-to-end ML applications including resume screening, sentiment analysis, and prediction systems  
+- Integrate AI features such as recommendations, summarization, and intelligent assistants into web products  
 
 ### Data Structures & Algorithms
+- Practice problem-solving on LeetCode and GeeksforGeeks with focus on time and space optimization  
+- Apply DSA concepts to improve performance and scalability in applications  
 
-- Practice and implement efficient algorithms and data structures on **LeetCode / GFG**.
-- Analyse time/space complexity and optimise critical paths in applications.
+### Deployment & DevOps
+- Deploy frontend and backend applications on Vercel, Netlify, and cloud platforms  
+- Use Docker for containerization and maintain CI/CD-ready project structures  
 
-### Deployment
-
-- Deploy frontends and backends on **Netlify, Vercel, Render, Heroku**.
-- Set up CI/CD workflows, automated tests and linting for reliable delivery.
-
-### Extras
-
-- Create Chrome extensions and developer tools to automate workflows.
-- Mentor juniors, contribute to open-source, and document projects with clean READMEs and demos.
+### Additional Work
+- Develop Chrome extensions and automation tools  
+- Contribute to open source and maintain clear documentation with structured READMEs  
 
 ---
 
