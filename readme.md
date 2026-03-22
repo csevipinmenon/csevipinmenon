@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vipin Kumar</h1>
-<h3 align="center">B.Tech CSE Student | MERN Stack Developer | Data Science | ML | NLP | DL | DSA</h3>
+<h3 align="center">B.Tech CSE Student | Full Stack (MERN) Developer | Data Science | ML | NLP | DL | DSA</h3>
 
 ---
 
