@@ -6,10 +6,10 @@
 ## 🔹 About Me
 
 I am pursuing a B.Tech in Computer Science and Engineering.  
-I work as a Full-Stack Web Developer (MERN) with hands-on experience in machine learning and data-driven systems.  
+I work as a Full-Stack Web Developer (MERN) with hands-on experience in Data Scientist and data-driven systems.  
 I build real-world applications, practice data structures and algorithms, and develop practical AI use cases.  
-Currently focusing on backend architecture, system design fundamentals, and applied machine learning.  
-Actively strengthening skills in Express.js, TensorFlow, NLP, and scalable application design.
+Currently focusing on backend architecture, system design fundamentals, and applied Artificial Intelligence .  
+Actively strengthening skills in Express.js, Scikit-learn,Keras,TensorFlow, NLP, and scalable application design.
 
 ---
 
@@ -60,6 +60,9 @@ Actively strengthening skills in Express.js, TensorFlow, NLP, and scalable appli
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
 
 ### AI / ML Tools
 
@@ -68,6 +71,13 @@ Actively strengthening skills in Express.js, TensorFlow, NLP, and scalable appli
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE.svg?style=flat&logo=python)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+
+###Data Visualization
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=python&logoColor=white)
+
 
 ### Tools
 
@@ -76,6 +86,9 @@ Actively strengthening skills in Express.js, TensorFlow, NLP, and scalable appli
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
 
 
@@ -117,20 +130,11 @@ Here are some of my key personal and academic projects:
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipin-kumar-04581431a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/csevipinkumar/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vipinmemon8123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/csevipinmemon)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/imvipin07/)
 
----
-
-# 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=csevipinmenon&limit=5&theme=radical&combine_all_yearly_contributions=true)  
-
----
-
-# 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=csevipinmenon&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
