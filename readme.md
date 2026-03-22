@@ -20,7 +20,7 @@ Actively strengthening skills in Express.js, Scikit-learn,Keras,TensorFlow, NLP,
 - Design RESTful APIs, authentication systems (JWT, OAuth), role-based access, and real-time features with Socket.io  
 - Work with MongoDB (Mongoose) for schema design, indexing, and aggregation pipelines  
 
-### Machine Learning & Data Science
+### Machine Learning, Deep Learning , NLP & Data Science
 - Develop ML models for classification, regression, and NLP using Pandas, NumPy, scikit-learn, and TensorFlow  
 - Build end-to-end ML applications including resume screening, sentiment analysis, and prediction systems  
 - Integrate AI features such as recommendations, summarization, and intelligent assistants into web products  
@@ -74,7 +74,7 @@ Actively strengthening skills in Express.js, Scikit-learn,Keras,TensorFlow, NLP,
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 
-###Data Visualization
+### Data Visualization
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=python&logoColor=white)
 
